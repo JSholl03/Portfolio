@@ -16,7 +16,7 @@ I'm a results-driven **Business Operations Manager** with a passion for leveragi
 
 ## 🌱 Currently Upskilling In:
 - Advanced SQL & Query Optimization
-- Building business apps with Python & Streamlit
+- Harnessing my analytical skills with Power BI, Python, Tableau, etc.
 - Data Storytelling for Executive Dashboards
 
 ---
