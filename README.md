@@ -1,23 +1,26 @@
 # Hi there, I'm Jon Sholl 👋
 
-## 🚀 Business Operations | Data Analytics | Process Optimization
+## 🚀 Business Operations | Customer Success | Data Analytics
 
-I'm a results-driven **Business Operations Manager** with a passion for leveraging data, automation, and cross-functional collaboration to solve complex business problems. With experience leading high-performing teams at CLEAR, Allianz Trade, and Hertz, I specialize in streamlining operations, enhancing customer experience, and driving growth in fast-paced environments.
+I’m a Customer Success and Operations professional with 10+ years of experience improving client onboarding, strengthening SLAs, increasing service quality, and driving cross-functional collaboration. My background spans enterprise customer experience, multi-site operations, and workflow optimization.
+
+I bring a calm, structured, data-driven, and customer-first approach to every account and project.
 
 ---
 
 ## 🔧 What I Do Best
-- 📊 **Operational Performance & KPI Tracking**: Turning raw data into actionable insights for better decision-making.
-- 🔄 **Process Automation & Workflow Optimization**: Automating repetitive tasks with Python & Excel to save time & resources.
-- 🤝 **Cross-Functional Leadership**: Partnering with Sales, Tech, Legal, and Support teams to solve business challenges.
-- 🌍 **Customer Experience Excellence**: Using Voice of Customer (VoC) data to enhance service delivery.
+- Customer onboarding & lifecycle management
+- Escalation handling & SLA recovery
+- Data & insights (KPI dashboards, health scoring, churn indicators)
+- Process optimization & SOP creation
+- Cross-functional collaboration (Product, Ops, Engineering, Support)
 
 ---
 
 ## 🌱 Currently Upskilling In:
-- Advanced SQL & Query Optimization
-- Harnessing my analytical skills with Power BI, Python, Tableau, etc.
-- Data Storytelling for Executive Dashboards
+- Strengthening analytical skills with Power BI, Python, Tableau, etc.
+- Gaining insight into several CRM platforms
+- Ops Leadership techniques with a LEAN Six Sigma Certification
 
 ---
 
