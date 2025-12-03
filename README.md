@@ -1,6 +1,6 @@
 # Hi there, I'm Jon Sholl 👋
 
-## 🚀 Business Operations | Customer Success | Data Analytics
+## 🚀 Business Operations | Customer Success | Data Enthusiast 
 
 I’m a Customer Success and Operations professional with 10+ years of experience improving client onboarding, strengthening SLAs, increasing service quality, and driving cross-functional collaboration. My background spans enterprise customer experience, multi-site operations, and workflow optimization.
 
