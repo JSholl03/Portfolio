@@ -9,6 +9,7 @@ I bring a calm, structured, data-driven, and customer-first approach to every ac
 ---
 
 ## 🔧 What I Do Best
+- Proactive Culture & Ops
 - Customer onboarding & lifecycle management
 - Escalation handling & SLA recovery
 - Data & insights (KPI dashboards, health scoring, churn indicators)
