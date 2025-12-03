@@ -16,6 +16,11 @@ I bring a calm, structured, data-driven, and customer-first approach to every ac
 - Process optimization & SOP creation
 - Cross-functional collaboration (Product, Ops, Engineering, Support)
 
+## 🧱 Skills
+- CRM Platforms: Salesforce, Hubspot, Gainsight, ChurnZero
+- Analytics Tools: Power BI, Tableau, Excel
+- Languages: SQL, Python 
+
 ---
 
 ## 🌱 Currently Upskilling In:
