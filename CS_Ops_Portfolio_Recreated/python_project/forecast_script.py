@@ -1,0 +1,1 @@
+print('Forecast script placeholder')
