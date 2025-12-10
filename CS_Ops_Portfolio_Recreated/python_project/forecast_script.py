@@ -1,1 +1,0 @@
-print('Forecast script placeholder')
